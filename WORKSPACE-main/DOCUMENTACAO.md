@@ -60,3 +60,8 @@
 7. observação
 
 
+# 25/11/2026
+- /medico -> 200 -> página inicial do médico
+- /medico/novo -> 200 -> cadastro de médico, ou seja, formulário
+- /medico/listagem -> 200 -> listagem de médicos
+
